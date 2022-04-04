@@ -1,4 +1,2 @@
 #!/bin/bash
-tail -1 iasta >> iasta
-#!/bin/bash
-tail -1 iasta >> iasta
+tail -1 iacta >> iacta
